@@ -1,0 +1,3 @@
+Servicio: dsrepos-foothold.salvor.nren.tcc:3001
+Vulnerabilidad: snprintf(response, BUFFER_SIZE, buffer)
+Lectura encontrada: FLAG{LWoM-kzkO-YFUf-XGpm}

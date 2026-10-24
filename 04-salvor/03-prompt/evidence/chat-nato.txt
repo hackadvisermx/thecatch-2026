@@ -1,0 +1,5 @@
+Salida del endpoint /chat (NATO):
+FOXTROT LIMA ALPHA GOLF { delta sierra NOVEMBER INDIA - Three whiskey kilo YANKEE - KILO zulu HOTEL HOTEL - Eight sierra ALPHA uniform }
+
+Flag validada:
+FLAG{dsNI-3wkY-KzHH-8sAu}

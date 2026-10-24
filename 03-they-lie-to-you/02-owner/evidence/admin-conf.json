@@ -1,0 +1,13 @@
+{
+  "baseOffset": 154700,
+  "formula": "metaId = baseOffset + (userId * multiplier) + fieldOffset",
+  "offsets": {
+    "FirstName": 11,
+    "LastName": 17,
+    "Data": 99,
+    "Email": 23,
+    "Sex": 53,
+    "Address": 41
+  },
+  "multiplier": 1000
+}

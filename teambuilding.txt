@@ -1,0 +1,17 @@
+2026 TEAMBUILDING CHART - local branch A
+Note: Though attendance is not mandatory, it is highly recommended to participate. Regural gatherings are important to boost team's morale and get to know each other.
+Date and place will be disclosed by HQ after all branches submit their attendance charts.
+
++-------------------+-----------------+--------------+-------------------+
+| name              | attendance      | sleepover    | notes             |
++-------------------+-----------------+--------------+-------------------+
+| kevin             | no              | no           | not interested    |
++-------------------+-----------------+--------------+-------------------+
+| eve               | yes             | yes          | room with jane    |
++-------------------+-----------------+--------------+-------------------+
+| jane              | yes             | yes          | room with eve     |
++-------------------+-----------------+--------------+-------------------+
+| dmitri            | yes             | yes          | room with jane ;) |
++-------------------+-----------------+--------------+-------------------+
+
+

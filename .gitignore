@@ -1,0 +1,17 @@
+# Material de acceso local: nunca debe entrar en el repositorio.
+*.ovpn
+*.keytab
+krb5-test.conf
+*.pem
+*.p12
+*.pfx
+.env
+.env.*
+
+# Residuos locales y temporales.
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+

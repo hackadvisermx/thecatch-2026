@@ -1,0 +1,15 @@
+Attention everyone!
+During the next six months the shares on this fileserver will be configured to require Kerberos authentication. This change is neccessary to comply with the company's new IS standards. 
+
+For this purpose, we've created a new kerberos server:
+
+realm: NREN.TCC
+kdc: kdc.nren.tcc
+
+For those who know how to work with kerberos, this should be sufficient, as your login will be the same as your company account, i.e. yourname@REALM. You should be able to Google the rest of the config.
+For those who do not know what the above info means - DO NOT TOUCH ANYTHING. IT will migrate configured shares on client stations in a timely manner.
+
+As a head of the IT department, I ask for your patience and understanding during this change.
+
+Regards,
+Kevin

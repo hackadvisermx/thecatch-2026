@@ -8,6 +8,16 @@ Este proyecto es el primer repositorio hijo de la colección
 > Las credenciales, claves privadas, configuraciones de VPN y keytabs usados
 > durante la resolución se excluyen deliberadamente del repositorio.
 
+## Evento original
+
+- **Sitio oficial:** [thecatch.cz](https://www.thecatch.cz/)
+- **Listado en CTFtime:** [CTFtime — eventos](https://ctftime.org/event/list/)
+  *(la ficha específica de The Catch 2026 no aparece publicada en CTFtime al
+  momento de esta actualización)*.
+- **Fechas:** del **5 de octubre de 2026 a las 12:00 UTC** al **2 de noviembre
+  de 2026 a las 12:00 UTC**.
+- **Organizador:** **CESNET Association**.
+
 ## Estructura
 
 ```
